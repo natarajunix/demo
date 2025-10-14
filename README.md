@@ -1,3 +1,3 @@
 # demo
 dsfdsf
-password : 12345s 
+Password: [YOUR_PASSWORD_HERE]
