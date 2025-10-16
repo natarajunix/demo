@@ -1,2 +1,2 @@
 # demo
-Password : 123456
+Password : [Set via an environment variable. Do not commit secrets.]
